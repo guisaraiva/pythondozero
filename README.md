@@ -20,7 +20,4 @@ A lista é uma das estruturas de dados do python. Criamos uma lista com a abertu
 
 <h4>Dicionários:</h4>
 
-A lista é uma das estruturas de dados do python. Criamos uma lista com a abertura e fechamento de colchetes "[conteúdo]". A lista aceita quaisquer tipos de dados (float, string, inteiro).
-
-<em>Exemplo: variavel =["laranja", 123, "25.25", "melancia"]</em>
 
