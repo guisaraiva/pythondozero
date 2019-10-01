@@ -20,4 +20,8 @@ A lista é uma das estruturas de dados do python. Criamos uma lista com a abertu
 
 <h4>Dicionários:</h4>
 
+Os dicionários me lembram um pouco dos JSON. Na questão de estrutura. Guardei dessa forma para saber como criar um dicionário através de chave e valor. Também podemos fazer uma analogia ao banco de dados NO-SQL de chave e valor. Um exemplo desse tipo de banco de dados é o REDIS.
 
+O dicionário é criado com a abertura e fechamento de chaves "{conteúdo}".
+
+<em>Exemplo: variavel =[valor1: "Guilherme", valor2: 1986, valor3: "Cientista de Dados"]</em>
