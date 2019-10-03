@@ -25,3 +25,12 @@ Os dicionários me lembram um pouco dos JSON. Na questão de estrutura. Guardei 
 O dicionário é criado com a abertura e fechamento de chaves "{conteúdo}". São mapeamentos de chave e valor.
 
 <em>Exemplo: variavel =[valor1: "Guilherme", valor2: 1986, valor3: "Cientista de Dados"]</em>
+
+<h4>Tuplas:</h4>
+
+A Tupla é uma lista imutável. Inicialmente, podemos pensar que a Tupla é uma lista que restringe a adição, alteração, remoção e o ordenamento do elementos. No entanto, pensar numa tupla como sendo somente uma lista imutável não está totalmente correto.
+Pensei em usar Tupla quando for armazenar dados que não podem ser alterados.
+
+A Tupla é criado com a abertura e fechamento de parenteses "(conteúdo)".
+
+<em>Exemplo: variavel =("DS", 1523, "frutas")</em>
